@@ -1,4 +1,8 @@
+#pragma once
+
 #include <iostream>
+#include <ostream>
+#include <cstring>
 
 struct BpNodeHeader {
     bool is_leaf;
